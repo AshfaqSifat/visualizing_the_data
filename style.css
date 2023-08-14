@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 25%;
+    height: 25%;
+}
+
+#one {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+#two {
+    text-align: center;
+}
